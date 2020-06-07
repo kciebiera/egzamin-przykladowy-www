@@ -21,3 +21,7 @@ Po modyfikacjach, twoja aplikacja powinna:
 
 - serwer powinno się uruchamiać za pomocą `npm start`
 - po uruchomieniu `node grade.js`, jeśli serwer jest uruchomiony, powinieneś dostać ocenę 5
+
+## Oddawanie ##
+
+- Wyniki należy umieścić w pliku .zip na Moodle (TODO, szczegóły jeszcze nie ustalone)

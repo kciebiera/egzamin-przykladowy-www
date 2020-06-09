@@ -2,7 +2,7 @@
 
 ## Treść ##
 
-Zmodyfikuj dostarczoną aplikację w espress. Powinieneś zmieniać jedynie zawartość plików:
+Zmodyfikuj dostarczoną aplikację w espress. Jako odpowiedź będzie brana pod uwagę jedynie zawartość plików:
 
 - app.js
 - routes/index.js
@@ -24,4 +24,4 @@ Po modyfikacjach, twoja aplikacja powinna:
 
 ## Oddawanie ##
 
-- Wyniki należy umieścić w pliku .zip na Moodle (TODO, szczegóły jeszcze nie ustalone)
+- zmodyfikowane pliki należy umieścić w pliku .zip na Moodle (TODO, szczegóły jeszcze nie ustalone)

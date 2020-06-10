@@ -24,4 +24,6 @@ Po modyfikacjach, twoja aplikacja powinna:
 
 ## Oddawanie ##
 
-- zmodyfikowane pliki należy umieścić w pliku .zip na Moodle (TODO, szczegóły jeszcze nie ustalone)
+- zmodyfikowane pliki należy umieścić w pliku .zip na Moodle
+- komenda do przygotowania pliku `zip login_ze_students app.js routes/index.js views/index.pug package.json`
+

@@ -15,7 +15,7 @@ function download(url) {
 }
 
 function addLine() {
-  const postData = "{'msg': 'Hello World!'}";
+  const postData = '{"msg": "Hello World!"}';
   return new Promise((resolve) => {
     const req = http.request('http://localhost:3000/add_line', {
       method: 'POST',
